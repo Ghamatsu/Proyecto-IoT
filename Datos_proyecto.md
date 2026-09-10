@@ -22,3 +22,5 @@ Mejora a las conexiones y adición de pantalla OLED (27/08)
 Adición de LED e inicio del modelo 3D para la carcasa del proyecto (01/09)
 
 Comienzo de impresión 3D de la carcasa (03/09)
+
+Armado con la carcasa lista (09/09)
